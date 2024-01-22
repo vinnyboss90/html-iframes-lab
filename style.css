@@ -5,10 +5,15 @@ body {
 form * {
   display: block;
   width: 80%;
-  margin: 1em;
+  margin: 1em;  
 }
 
 #checkbox {
   display:inline;
 
+}
+.iframe {
+  width: 100px;
+  height: 400px;
+  border: 1;
 }
